@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cổng Thông Tin Nội Bộ - PJICO Hải Phòng</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <!-- Boxicons cho các icon -->
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+
+<body>
+    <div class="dashboard">
+        <aside class="sidebar">
+            <div class="logo-container">
+                <img src="https://www.pjico.com.vn/wp-content/uploads/2024/06/logo.png" alt="PJICO Logo" class="logo">
+                <h2 class="company-name">PJICO HẢI PHÒNG</h2>
+            </div>
+            <nav class="nav-menu">
+                <!-- Danh sách phòng ban sẽ được render bằng JS -->
+            </nav>
+        </aside>
+
+        <main class="main-content">
+            <header class="header">
+                <div>
+                    <h2 class="subtitle-highlight">Cổng thông tin nội bộ</h2>
+                    <h1 id="current-dept-title">Dữ liệu chung</h1>
+                </div>
+                <div class="user-profile">
+                    <div class="avatar"><i class='bx bx-sun' id="greeting-icon"></i></div>
+                    <div style="display: flex; flex-direction: column; line-height: 1.2;">
+                        <span id="greeting-text"
+                            style="font-size: 0.85rem; color: var(--text-muted); font-weight: 500;">Xin chào</span>
+                        <span id="current-time" style="font-size: 1rem; color: var(--text-main);">--:--</span>
+                    </div>
+                </div>
+            </header>
+
+            <div class="cards-grid" id="data-links-container">
+                <!-- Nội dung card sẽ được render bằng JS -->
+            </div>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
