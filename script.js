@@ -6,7 +6,7 @@ const data = [
             { name: "Biểu mẫu hay dùng", link: "https://docs.google.com/document/d/1lAi4ucVapj2RAq7XNv5ZVQ0UDNO3uEplM-63O_Za7lU/edit?usp=sharing", type: "document" },
             { name: "Giấy ủy quyền", link: "https://drive.google.com/drive/folders/1rqoS654_WqlpPtuSb81HiOp6vwK0aPkL", type: "folder" },
             { name: "Hồ sơ năng lực Cty", link: "https://drive.google.com/drive/folders/1uZTzaqbxHBv_qIQ3ll8V79w9NxpsmnwM", type: "folder" },
-            { name: "Doanh thu về TK ngân hàng", link: "", type: "finance" },
+            { name: "Văn bản 2026", link: "https://drive.google.com/drive/folders/1BOPI64C1uLBC32EMpjyygdcZSIy8hUYn?usp=drive_link", type: "finance" },
             { name: "Hệ số và lương hỗ trợ 2026", link: "", type: "finance" },
             { name: "Cổng thông tin năm 2025", link: "https://docs.google.com/document/d/18ai12BuNupyI9cRyb7DLU_2EKezdlq0yd1u0vGorpnk/edit?usp=sharing", type: "document" },
             { name: "Phần mềm hay dùng", link: "", type: "software" },
