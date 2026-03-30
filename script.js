@@ -7,7 +7,7 @@ const data = [
             { name: "Giấy ủy quyền", link: "https://drive.google.com/drive/folders/1rqoS654_WqlpPtuSb81HiOp6vwK0aPkL", type: "folder" },
             { name: "Hồ sơ năng lực Cty", link: "https://drive.google.com/drive/folders/1uZTzaqbxHBv_qIQ3ll8V79w9NxpsmnwM", type: "folder" },
             { name: "Văn bản 2026", link: "https://drive.google.com/drive/folders/1BOPI64C1uLBC32EMpjyygdcZSIy8hUYn?usp=drive_link", type: "finance" },
-            { name: "Hệ số và lương hỗ trợ 2026", link: "", type: "finance" },
+            { name: "Định mức hoa hông, chi phí, lương 2026", link: "https://docs.google.com/spreadsheets/d/1pDU0euO1x7AcORi9sDF__xUFLtfCGASUSa0QahU7SRs/edit?usp=sharing", type: "finance" },
             { name: "Cổng thông tin năm 2025", link: "https://docs.google.com/document/d/18ai12BuNupyI9cRyb7DLU_2EKezdlq0yd1u0vGorpnk/edit?usp=sharing", type: "document" },
             { name: "Phần mềm hay dùng", link: "", type: "software" },
         ]
