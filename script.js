@@ -103,6 +103,7 @@ const data = [
             { name: "Bảo hiểm XH", link: "https://docs.google.com/spreadsheets/d/1buk922JQ9_ijiUbFTN7bFa0VM8TIGWaRaH0fXawAmEM/edit?usp=sharing", type: "spreadsheet" },
             { name: "Mẫu hay dùng", link: "https://docs.google.com/document/d/1sGZCsui2S-hv4DQT43vo5Q_SI72ZNfT8ro8nBWM_avw/edit?usp=sharing", type: "document" },
 			{ name: "Nhập doanh thu 2026", link: "https://docs.google.com/spreadsheets/d/1bCW52iYa5NPAreIX25DxLwEB96KFaWGsBcZCVDnXGeM/edit?usp=sharing", type: "document" },
+			{ name: "File theo dõi thuế TNCN 2026", link: "https://docs.google.com/spreadsheets/d/18VZ4JuUluUWo9sqVS7gRAUq_aCVhf-siqmFy97IbaBY/edit?usp=sharing", type: "document" },
         ]
     },
     {
