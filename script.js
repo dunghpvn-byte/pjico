@@ -31,7 +31,7 @@ const data = [
             { name: "Bảng tổng lương", link: "https://docs.google.com/spreadsheets/d/13xE2sClDXGNzdvIVFLBqlCxhZdJ2fs11ibJxTZcoHfM/edit?usp=drive_link", type: "spreadsheet" },
             { name: "Chấm công", link: "https://docs.google.com/spreadsheets/d/1Z0oH2xXa_7FZ7_k7ZSTJ7sVpVD0s7JqrlU18VJH33ZQ/edit?usp=drive_link", type: "spreadsheet" },
             { name: "Doanh thu", link: "", type: "finance" },
-            { name: "Thuế TNCN (tạm tính)", link: "", type: "finance" },
+            { name: "Thuế TNCN (tạm tính)", link: "https://docs.google.com/spreadsheets/d/1WOxDIP3y1lzLlQxAGpz6Fvu5Su2s1YU5jF2G2I5YsIk/edit?usp=sharing", type: "spreadsheet" },
         ]
     },
     {
@@ -42,7 +42,7 @@ const data = [
             { name: "Bảng tổng lương", link: "https://docs.google.com/spreadsheets/d/1qJLgnlP7bv2TOHy-1tmzNOf5QZO3N_32GneB89wC2UQ/edit?usp=drive_link", type: "spreadsheet" },
             { name: "Chấm công", link: "https://docs.google.com/spreadsheets/d/1547feRjePZ2kLgFsNs8hgr6K0KTJBaUrDfoiT-sp8jA/edit?usp=drive_link", type: "spreadsheet" },
             { name: "Doanh thu", link: "", type: "finance" },
-            { name: "Thuế TNCN (tạm tính)", link: "", type: "finance" },
+            { name: "Thuế TNCN (tạm tính)", link: "https://docs.google.com/spreadsheets/d/1ditAxHxppIIKgAsOCMl4NDkkiUU2i917NxBYZh5FWNc/edit?usp=sharing", type: "spreadsheet" },
         ]
     },
     {
@@ -53,7 +53,7 @@ const data = [
             { name: "Bảng tổng lương", link: "https://docs.google.com/spreadsheets/d/1PiZTeHxDF6w6yVlVgnj8EncxdFjYmRQV8BGWyfarLq0/edit?usp=drive_link", type: "spreadsheet" },
             { name: "Chấm công", link: "https://docs.google.com/spreadsheets/d/1ah8WeZiA0HrwNecVVqoMvCUVaayqAMVLdI3E5QU8j0U/edit?usp=drive_link", type: "spreadsheet" },
             { name: "Doanh thu", link: "", type: "finance" },
-            { name: "Thuế TNCN (tạm tính)", link: "", type: "finance" },
+            { name: "Thuế TNCN (tạm tính)", link: "https://docs.google.com/spreadsheets/d/1_KtdVi2a4sZ4APgr9yoNFJnojjEn-N76C2mH8SF7xS0/edit?usp=sharing", type: "spreadsheet" },
         ]
     },
     {
@@ -64,7 +64,7 @@ const data = [
             { name: "Bảng tổng lương", link: "https://docs.google.com/spreadsheets/d/1E-sSPht5qgqgCJZCNBMIaaB8eiTPsu6Vr-jSYbTw890/edit?usp=drive_link", type: "spreadsheet" },
             { name: "Chấm công", link: "https://docs.google.com/spreadsheets/d/16U7y-F9BQh9c9qQK2JrYGI8S5P9K4BWqrn-XmRUAn2E/edit?usp=sharing", type: "spreadsheet" },
             { name: "Doanh thu", link: "", type: "finance" },
-            { name: "Thuế TNCN (tạm tính)", link: "", type: "finance" },
+            { name: "Thuế TNCN (tạm tính)", link: "https://docs.google.com/spreadsheets/d/1w_WWg3S6szwuSU2dkRefAHlsknsPWuTyz-vKe102UeE/edit?usp=sharing", type: "spreadsheet" },
         ]
     },
     {
@@ -75,7 +75,7 @@ const data = [
             { name: "Bảng tổng lương", link: "https://docs.google.com/spreadsheets/d/1pfb82MsXLcez07-CHcQkzbYx1tPeRz4rte1S4LxK3zM/edit?usp=drive_link", type: "spreadsheet" },
             { name: "Chấm công", link: "https://docs.google.com/spreadsheets/d/1ocAqBgU1EJQDf3a08mJt6QyGuH7kh_dhekg03hsrfCs/edit?usp=drive_link", type: "spreadsheet" },
             { name: "Doanh thu", link: "", type: "finance" },
-            { name: "Thuế TNCN (tạm tính)", link: "", type: "finance" },
+            { name: "Thuế TNCN (tạm tính)", link: "https://docs.google.com/spreadsheets/d/1E_Z8V0-fOjS9aESOVFFV0M8eqk_whc3tfnCbc2qk2n8/edit?usp=sharing", type: "spreadsheet" },
         ]
     },
     {
@@ -97,7 +97,7 @@ const data = [
             { name: "Bảng tổng lương", link: "https://docs.google.com/spreadsheets/d/18T0zBSCwH7WPSqh3PqnBk73kSX4OR68eOuet7r25lvc/edit?usp=drive_link", type: "spreadsheet" },
             { name: "Chấm công", link: "https://docs.google.com/spreadsheets/d/1xcXrwXTyahDK-wHxTzy1qm2FvDYGmq8jY_PwEQhZ1x0/edit?usp=sharing", type: "spreadsheet" },
             { name: "Doanh thu", link: "", type: "finance" },
-            { name: "Thuế TNCN (tạm tính)", link: "", type: "finance" },
+            { name: "Thuế TNCN (tạm tính)", link: "https://docs.google.com/spreadsheets/d/1j7ynoMblECf-0k9pfxPOGTZ_M9S2GpU3EdCHHvEniXU/edit?usp=sharing", type: "finance" },
             { name: "TH lương khoán", link: "https://docs.google.com/spreadsheets/d/1aVmV2WBXzECQtFhHXp3o-2yWG3nF4i9naJvwtTVGRCo/edit?usp=sharing", type: "spreadsheet" },
             { name: "TH bảng lương", link: "https://docs.google.com/spreadsheets/d/1_sRNQksIyHxcF0vO48Kbrr697E1Z4cCDnTUiwaew_TY/edit?usp=drive_link", type: "spreadsheet" },
             { name: "Bảo hiểm XH", link: "https://docs.google.com/spreadsheets/d/1buk922JQ9_ijiUbFTN7bFa0VM8TIGWaRaH0fXawAmEM/edit?usp=sharing", type: "spreadsheet" },
