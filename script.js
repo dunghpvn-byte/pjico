@@ -86,7 +86,7 @@ const data = [
             { name: "Bảng tổng lương", link: "https://docs.google.com/spreadsheets/d/1TTkykzrjuG9S4VCdtp_eTmDrk9_uQowzQTKrVxal2Rw/edit?usp=drive_link", type: "spreadsheet" },
             { name: "Chấm công", link: "https://docs.google.com/spreadsheets/d/1jhUiU9mfBIS3fFv1Pt-Tw5Vbz0KOeBbCJc12NzAnqoA/edit?usp=sharing", type: "spreadsheet" },
             { name: "Doanh thu", link: "", type: "finance" },
-            { name: "Thuế TNCN (tạm tính)", link: "", type: "finance" },
+            { name: "Thuế TNCN (tạm tính)", link: "https://docs.google.com/spreadsheets/d/17OfMsE56OoCWUbibCAWiF90eDP-WLsPMcl1Bgb1Benw/edit?usp=sharing", type: "spreadsheet" },
         ]
     },
     {
@@ -111,6 +111,7 @@ const data = [
         items: [
             { name: "Bảng tổng lương", link: "https://docs.google.com/spreadsheets/d/1sfDtIBkZc_hezcj4RVl_hAcxauEyIlALaRSnnccvs9U/edit?usp=drive_link", type: "spreadsheet" },
 			{ name: "Doanh thu 2021-2026", link: "https://docs.google.com/spreadsheets/d/10oSkdipV5dYIknKz7z0MhhL5kEb5uBlHJi391U6yEMo/edit?usp=sharing", type: "spreadsheet" },
+			{ name: "Thuế TNCN (tạm tính)", link: "https://docs.google.com/spreadsheets/d/1SpwDRVDRNqFR926f6Wk_AhTd-729bo1ExbI_XMq-jk8/edit?usp=sharing", type: "spreadsheet" },
         ]
     }
 ];
