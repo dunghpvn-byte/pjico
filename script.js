@@ -20,7 +20,7 @@ const data = [
             { name: "Bảng tổng lương", link: "https://docs.google.com/spreadsheets/d/1XIfxnz2n14GQraXFFs528m31SdazMHAA4YYTZPLDSBg/edit?usp=drive_link", type: "spreadsheet" },
             { name: "Chấm công", link: "https://docs.google.com/spreadsheets/d/1gQ4UMgUKZ715qx4ViYIzgj7ZJwMga398oc6kzRxEx98/edit?usp=drive_link", type: "spreadsheet" },
             { name: "Doanh thu", link: "", type: "finance" },
-            { name: "Thuế TNCN (tạm tính)", link: "", type: "finance" },
+            { name: "Thuế TNCN (tạm tính)", link: "https://docs.google.com/spreadsheets/d/1Cqtkb0gFHY39acCgQq3865FprA5SNdt8ONmdJc3j748/edit?usp=sharing", type: "spreadsheet" },
         ]
     },
     {
